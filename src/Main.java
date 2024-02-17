@@ -19,7 +19,7 @@ public class Main {
         tank.setY(2000);
         tank.printPosition();
 
-        System.out.println("branc");
+        System.out.println("branc_new");
     }
 }
 
