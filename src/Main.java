@@ -15,8 +15,8 @@ public class Main {
         customTank.printPosition();
 
         Tank tank = new Tank();
-        tank.x = 1000;
-        tank.y = 2000;
+        tank.setX(1000);
+        tank.setY(2000);
         tank.printPosition();
     }
 }
