@@ -9,7 +9,7 @@ public class Main {
         final Tank customTank = new Tank(20, 30, 200);
         justTank.goForward(200);
         justTank.printPosition();
-        anywareTank.goBackward(-200);
+        anywareTank.goBackward(100);
         anywareTank.printPosition();
         customTank.goForward(201);
         customTank.printPosition();
